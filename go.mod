@@ -1,6 +1,6 @@
 module github.com/stackb/rules_proto
 
-go 1.15
+go 1.21.6
 
 require (
 	github.com/bazelbuild/bazel-gazelle v0.31.0
